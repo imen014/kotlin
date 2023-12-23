@@ -1,0 +1,37 @@
+Absolument, voici quelques exercices plus simples pour les débutants en Kotlin :
+
+1. **Addition simple:**
+   - Écrivez un programme qui prend deux nombres en entrée et affiche leur somme.
+
+2. **Multiplication:**
+   - Créez un programme qui multiplie deux nombres et affiche le résultat.
+
+3. **Calcul de la moyenne:**
+   - Demandez à l'utilisateur de saisir trois nombres, puis calculez et affichez leur moyenne.
+
+4. **Conversion de devise:**
+   - Écrivez un programme qui convertit une somme d'argent d'une devise à une autre. Par exemple, 
+convertissez des dollars en euros.
+
+5. **Vérification de parité:**
+   - Demandez à l'utilisateur de saisir un nombre et indiquez s'il est pair ou impair.
+
+6. **Calcul de l'aire d'un cercle:**
+   - Demandez à l'utilisateur de saisir le rayon d'un cercle et calculez puis affichez l'aire.
+
+7. **Table de multiplication simplifiée:**
+   - Choisissez un nombre, puis affichez les cinq premiers multiples de ce nombre.
+
+8. **Vérification de la majorité:**
+   - Demandez à l'utilisateur de saisir son âge et indiquez s'il est majeur ou mineur.
+
+9. **Conversion de température (simplifiée):**
+   - Écrivez un programme qui convertit une température de Celsius à Fahrenheit en utilisant 
+la formule simple : `F = (C * 9/5) + 32`.
+
+10. **Compteur de voyelles:**
+    - Demandez à l'utilisateur de saisir une phrase, puis comptez et affichez le nombre de voyelles 
+dans cette phrase.
+
+Ces exercices devraient être abordables pour les débutants et vous permettront de renforcer 
+vos compétences de base en programmation Kotlin. N'hésitez pas à les ajuster selon vos besoins.
